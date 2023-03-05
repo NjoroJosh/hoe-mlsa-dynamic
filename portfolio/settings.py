@@ -144,4 +144,5 @@ CSRF_TRUSTED_ORIGINS = [
     'http://sjef.azurewebsites.net',
     'https://sjef.azurewebsites.net',
     'http://odhiambo-jeff.me',
+    'https://njorogejosh.azurewebsites.net'
 ]
